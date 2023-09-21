@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736549179412",
+    "project_id": "test-1861a",
+    "storage_bucket": "test-1861a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736549179412:android:2669bc1247da14de9f9701",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_gorouter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRsrj4WXNNjgTRGTRhiuigaPk5-RstAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
