@@ -37,7 +37,7 @@ class ClockPainter extends CustomPainter {
 
     var secHandBrush = Paint()
       ..color = Colors.orange
-      ..style = PaintingStyle.stroke
+      ..style = PaintingStyle.stroke 
       ..strokeWidth = 16;
 
     var minHandBrush = Paint()
